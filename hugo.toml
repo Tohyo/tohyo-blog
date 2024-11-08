@@ -1,0 +1,7 @@
+baseURL = 'https://www.tohyo.fr'
+languageCode = 'fr-fr'
+title = 'Tohyo'
+theme = 'hugo-simple'
+sectionPagesMenu = 'main'
+[taxonomies]
+    category = "categories"
